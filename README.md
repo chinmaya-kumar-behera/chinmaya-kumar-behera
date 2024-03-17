@@ -12,7 +12,6 @@
 
 💬 Ask me about my experience as a core developer at @learnduke, where I contributed to the development of a student doubt-clearing platform. I'm passionate about creating solutions that make learning more accessible and engaging.
 
-📫 You can reach me via email at [your email address] or connect with me on [LinkedIn](your LinkedIn profile URL).
 
 😄 Pronouns: He/Him
 
